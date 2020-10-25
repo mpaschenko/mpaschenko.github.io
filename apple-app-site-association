@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "PVPS48GWY5.tv.belive.mobilehost",
+            "paths": ["*"]
+        }]
+    }
+}
